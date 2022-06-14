@@ -63,7 +63,7 @@ Supervisely has comprehensive set of features that distinguish it from yet anoth
 
 `huge resolutions`  |  `Supports 1000+ objects per image` 
 :---------------:|:-----------------:
-<img src="https://cdn.supervise.ly/img/tallinn.563be7e.png" style="max-height 300px; width:  auto"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173540755-2dd51481-ee88-467b-bcaa-361449199351.gif" style="height 300px; width:  auto;"/>
+<img src="https://cdn.supervise.ly/img/tallinn.563be7e.png" style="height 300px; width:  auto"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173540755-2dd51481-ee88-467b-bcaa-361449199351.gif" style="height 300px; width:  auto;"/>
 
 `visual configuration`  |  `hotkeys` 
 :---------------:|:-----------------:
