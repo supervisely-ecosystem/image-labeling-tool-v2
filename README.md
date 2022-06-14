@@ -59,15 +59,15 @@ Supervisely has comprehensive set of features that distinguish it from yet anoth
 
 `image & object tags`  |  `Image & object filters` 
 :---------------:|:-----------------:
-<img src="https://cdn.supervise.ly/img/object-tags.8715b6c.png" style="max-height 300px; width:  300px;"/>  |  <img src="https://cdn.supervise.ly/img/final.994fabc.png" style="height 300px; width:  300px;"/>
+<img src="https://cdn.supervise.ly/img/object-tags.8715b6c.png" style="max-height 300px; width:  auto;"/>  |  <img src="https://cdn.supervise.ly/img/final.994fabc.png" style="height 300px; width:  auto;"/>
 
 `huge resolutions`  |  `Supports 1000+ objects per image` 
 :---------------:|:-----------------:
-<img src="https://cdn.supervise.ly/img/tallinn.563be7e.png" style="max-height 300px; width:  300px"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173540755-2dd51481-ee88-467b-bcaa-361449199351.gif" style="height 300px; width:  300px;"/>
+<img src="https://cdn.supervise.ly/img/tallinn.563be7e.png" style="max-height 300px; width:  auto"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173540755-2dd51481-ee88-467b-bcaa-361449199351.gif" style="height 300px; width:  auto;"/>
 
 `visual configuration`  |  `hotkeys` 
 :---------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/12828725/173541225-10fe89bd-7d41-4a9f-a843-68494d9c7e19.gif" style="max-height 300px; width:  300px;"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173541198-d13a7e78-f952-491d-b633-53feb6610746.gif" style="max-height 300px; width:  300px;"/>
+<img src="https://user-images.githubusercontent.com/12828725/173541225-10fe89bd-7d41-4a9f-a843-68494d9c7e19.gif" style="max-height 300px; width:  auto;"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173541198-d13a7e78-f952-491d-b633-53feb6610746.gif" style="max-height 300px; width:  auto;"/>
 
 
 <div align="center" markdown>
