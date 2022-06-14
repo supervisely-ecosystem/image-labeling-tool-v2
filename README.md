@@ -70,4 +70,17 @@ Supervisely has comprehensive set of features that distinguish it from yet anoth
 <img src="https://user-images.githubusercontent.com/12828725/173541225-10fe89bd-7d41-4a9f-a843-68494d9c7e19.gif" style="max-height: 300px; width: auto;"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173541198-d13a7e78-f952-491d-b633-53feb6610746.gif" style="max-height: 300px; width: auto;"/>
 
 
-test1
+<div align="center" markdown>
+
+### TAILORED SOLUTIONS
+# Custom labeling UIs
+Our labeling suites are best-in-class, but even the best tools cannot fit every possible scenario. Sometimes, to achieve incredible results in annotation performance and quality a custom labeling solution with a tailored user interface is required.
+
+With [Supervisely Apps](https://supervise.ly/ecosystem) it's easy to build custom UIs for any task. Implement logic with Python and create comprehensive interfaces using our library of widgets, without worrying of deployment, integration, format conversion and other boring things.
+
+[Learn more ➡️](https://supervise.ly/labeling-automation/custom-labeling-ui)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/106374579/173556233-ef6f0626-ce2a-4c63-8e99-65c640d6eb58.gif"/>
+
