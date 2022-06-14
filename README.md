@@ -11,7 +11,7 @@ With more than 5 years of constant improvement, proved by hundreds of businesses
 [![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=views&label=views)](https://supervise.ly)
 [![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=runs&label=runs&123)](https://supervise.ly)
 
-<img src="https://cdn.supervise.ly/img/hero.0577837.png"/>
+<img src="https://cdn.supervise.ly/img/hero.0577837.png" style="max-height: 350px; width: auto;"/>
 
 </div>
 
