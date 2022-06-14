@@ -22,21 +22,29 @@ With more than 5 years of constant improvement, proved by hundreds of businesses
 
 ### FOR ANY TYPE OF ANNOTATION
 # Packed with advanced labeling tools
-Precise tools for pixel-accurate annotations make any task from object detection to instance segmentations simple and fast.
+Precise tools for pixel-accurate annotations make any task from object detection to instance segmentations simple and fast. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
+
+<img src="https://user-images.githubusercontent.com/12828725/173542924-8cb6849d-e04a-468c-a8db-9e49e55ffe7b.gif" style="max-height: 400px; width: auto;"/>
 
 </div>
 
-`AI smart tool`  |  `Bounding boxes` | `Polygons`
-:---------------:|:-----------------:|:-----------:
-<img src="https://user-images.githubusercontent.com/12828725/173539066-3bf97a8b-172f-48c4-8076-2178ed5d4643.gif" style="max-height: 300px; width: auto;"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173538759-f474c993-0a54-4d43-b975-e7e21e960c7b.gif" style="max-height: 300px; width: auto;"/>  | <img src="https://user-images.githubusercontent.com/12828725/173538864-b0ec18ba-80c6-4483-aa59-5a131bae2e77.gif" style="max-height: 300px; width: auto;"/>
+<br/>
+<br/>
 
-`Brush bitmaps` | `Pen masks` | `Polylines` | 
-:--------------:|:-----------:|:------------: 
-<img src="https://user-images.githubusercontent.com/12828725/173538840-946a0144-5d6d-4583-848c-79c9de9b0205.gif" style="max-height: 300px; width: auto;"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173538840-946a0144-5d6d-4583-848c-79c9de9b0205.gif" style="max-height: 300px; width: auto;"/> |  <img src="https://user-images.githubusercontent.com/12828725/173538835-64c0f63d-9ec1-4a8c-9f94-254a3c501a94.gif" style="max-height: 300px; width: auto;"/>
+<div align="center" markdown>
 
-`Key points`  |  `Points` | `Cuboids` |
-:------------:|:---------:|:----------:
-<img src="https://user-images.githubusercontent.com/12828725/173538816-c5b72f9c-169f-4028-b1b5-fb683266185d.gif" style="max-height: 300px; width: auto;"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173538794-6145952c-64be-42c4-9690-b86600b89be3.gif" style="max-height: 300px; width: auto;"/> |  <img src="https://user-images.githubusercontent.com/12828725/173538775-f12300db-bc06-4f86-b74c-1c6423d8f2b1.gif" style="max-height: 300px; width: auto;"/>
+### SMART TOOLS
+# Interactive AI assisted labeling
+Apart from usual tools like rectangle or brush, Supervisely comes with “smart” labeling tools based on a collection of class-agnostic neural networks that can be further trained on your data. [Learn more ➡️](https://supervise.ly/labeling-automation/ai-assisted-labeling)
+
+<img src="https://user-images.githubusercontent.com/12828725/173544099-d8c273d0-a31d-4455-b83e-8f3d8cd3d0a4.gif"/>
+
+</div>
+
+`Trainable & customizable`  |  `Designed for any object` 
+:--------------------------:|:--------------------------:
+Neural network in the core of the smart tool can be re-trained to better fit your very unique case and produce unprecedented results with just a little bit of extra data. | Smart tool is class-agnostic — it was not trained to capture specific objects, but rather any forms that stand out.
+<img src="https://user-images.githubusercontent.com/12828725/173545542-36458ebd-249c-47c6-a0f0-76ff6a5094c3.gif"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173545525-0c294bf2-6d48-4704-9e68-d92ba4b629bd.gif"/>
 
 <br/>
 <br/>
@@ -45,7 +53,7 @@ Precise tools for pixel-accurate annotations make any task from object detection
 
 # Annotation features for the real work
 Successful image labeling requires much more than just annotation tools like brush or rectangle.
-Supervisely has comprehensive set of features that distinguish it from yet another labeling editor.
+Supervisely has comprehensive set of features that distinguish it from yet another labeling editor. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
 
 </div>
 
