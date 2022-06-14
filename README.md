@@ -84,3 +84,13 @@ With [Supervisely Apps](https://supervise.ly/ecosystem) it's easy to build custo
 
 <img src="https://user-images.githubusercontent.com/106374579/173556233-ef6f0626-ce2a-4c63-8e99-65c640d6eb58.gif"/>
 
+<div align="center" markdown>
+
+### IMAGE GROUPS
+# Multi-image views and labeling
+Create image groups inside your dataset by assigning a grouping tag. View and label grouped images together, compare annotation results or couple dependednt imagiary such as `.nrrd` studies.
+</div>
+
+`DICOM and NRRD studies`  |  `Multi-window labeling` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173558718-86ace1d5-9696-4b7c-a354-85217455626d.png"/> |<img src="https://user-images.githubusercontent.com/106374579/173561206-b5e95ae1-c5f0-4d6e-903f-d3e06bf1a628.gif"/>
