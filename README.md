@@ -93,4 +93,4 @@ Create image groups inside your dataset by assigning a grouping tag. View and la
 
 `DICOM and NRRD studies`  |  `Multi-window labeling` 
 :---------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/173558718-86ace1d5-9696-4b7c-a354-85217455626d.png"/> |<img src="https://user-images.githubusercontent.com/106374579/173561206-b5e95ae1-c5f0-4d6e-903f-d3e06bf1a628.gif"/>
+<img src="https://user-images.githubusercontent.com/106374579/173558718-86ace1d5-9696-4b7c-a354-85217455626d.png" style="max-height 300px; width:  auto;"/> |<img src="https://user-images.githubusercontent.com/106374579/173561206-b5e95ae1-c5f0-4d6e-903f-d3e06bf1a628.gif" style="max-height 300px; width:  auto;"/>
