@@ -24,7 +24,7 @@ With more than 5 years of constant improvement, proved by hundreds of businesses
 # Packed with advanced labeling tools
 Precise tools for pixel-accurate annotations make any task from object detection to instance segmentations simple and fast. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
 
-<img src="https://user-images.githubusercontent.com/12828725/173542924-8cb6849d-e04a-468c-a8db-9e49e55ffe7b.gif" width="auto" height="250"/>
+<img src="https://user-images.githubusercontent.com/12828725/173542924-8cb6849d-e04a-468c-a8db-9e49e55ffe7b.gif" width="auto" height="400"/>
 
 </div>
 
