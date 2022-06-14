@@ -59,7 +59,7 @@ Supervisely has comprehensive set of features that distinguish it from yet anoth
 
 `image & object tags`  |  `Image & object filters` 
 :---------------:|:-----------------:
-<img src="https://cdn.supervise.ly/img/object-tags.8715b6c.png" style="max-height auto: ; width:  300px;"/>  |  <img src="https://cdn.supervise.ly/img/final.994fabc.png" style="max-height auto; width:  300px;"/>
+<img src="https://cdn.supervise.ly/img/object-tags.8715b6c.png" style="max-height 300px; max-width:  150px;"/>  |  <img src="https://cdn.supervise.ly/img/final.994fabc.png" style="max-height auto; max-width:  150px;"/>
 
 `huge resolutions`  |  `Supports 1000+ objects per image` 
 :---------------:|:-----------------:
