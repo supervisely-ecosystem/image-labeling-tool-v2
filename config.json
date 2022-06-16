@@ -7,7 +7,8 @@
     "images",
     "interactive segmentation",
     "inference interfaces",
-    "annotation tool"
+    "annotation tool",
+    "labeling"
   ],
   "icon_background": "#FFFFFF",
   "icon_cover": false,
