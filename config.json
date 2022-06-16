@@ -12,7 +12,7 @@
   ],
   "icon_background": "#FFFFFF",
   "icon_cover": false,
-  "icon": "https://imgur.com/LHD0OCt.png",
+  "icon": "https://cdn.supervise.ly/img/image-toolbox.272b80b.png",
   "context_menu": {
     "target": [
       "images_dataset"
