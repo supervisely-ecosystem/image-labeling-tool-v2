@@ -1,5 +1,6 @@
 {
   "name": "Images labeling tool #2",
+  "description": "complete solution for image annotation with advanced features",
   "type": "annotation_tool",
   "annotation_tool_type": "images_v2",
   "categories": [
