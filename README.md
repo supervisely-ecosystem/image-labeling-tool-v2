@@ -1,6 +1,6 @@
 <div align="center" markdown>
 
-# Image annotation tool v2
+# Image annotation tool #2
 
 ## A complete solution for image annotation 
 
