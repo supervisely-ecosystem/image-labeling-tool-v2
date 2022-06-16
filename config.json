@@ -14,6 +14,7 @@
   "icon_background": "#FFFFFF",
   "icon_cover": false,
   "icon": "https://cdn.supervise.ly/img/image-toolbox.272b80b.png",
+  "poster": "https://user-images.githubusercontent.com/12828725/174097936-b1c77902-3f12-4cc0-bb8e-a36cee2c37e2.png",
   "context_menu": {
     "target": [
       "images_dataset"
