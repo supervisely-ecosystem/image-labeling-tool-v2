@@ -8,8 +8,8 @@ With more than 5 years of constant improvement, proved by hundreds of businesses
 
 [![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/image-labeling-tool-v2)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=views&label=views)](https://supervise.ly)
-[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=runs&label=runs&123)](https://supervise.ly)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/image-labeling-tool-v2)](https://supervise.ly)
+[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/image-labeling-tool-v2)](https://supervise.ly)
 
 <img src="https://cdn.supervise.ly/img/hero.0577837.png" style="max-height: 350px; width: auto;"/>
 
