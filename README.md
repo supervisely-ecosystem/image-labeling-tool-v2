@@ -4,14 +4,14 @@
 
 ## A complete solution for image annotation 
 
-With more than 5 years of constant improvement, proved by hundreds of businesses, our image labeling suite sets the highest industry standard on the market today. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
+With more than 5 years of constant improvement, proved by hundreds of businesses, our image labeling suite sets the highest industry standard on the market today. [Learn more ➡️](https://supervisely.com/labeling-toolbox/images)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/image-labeling-tool-v2)
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/image-labeling-tool-v2.png)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/image-labeling-tool-v2.png)](https://supervise.ly)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/image-labeling-tool-v2)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/image-labeling-tool-v2.png)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/image-labeling-tool-v2.png)](https://supervisely.com)
 
-<img src="https://cdn.supervise.ly/img/hero.0577837.png" style="max-height: 350px; width: auto;"/>
+<img src="https://cdn.supervisely.com/img/hero.0577837.png" style="max-height: 350px; width: auto;"/>
 
 </div>
 
@@ -22,7 +22,7 @@ With more than 5 years of constant improvement, proved by hundreds of businesses
 
 ### FOR ANY TYPE OF ANNOTATION
 # Packed with advanced labeling tools
-Precise tools for pixel-accurate annotations make any task from object detection to instance segmentations simple and fast. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
+Precise tools for pixel-accurate annotations make any task from object detection to instance segmentations simple and fast. [Learn more ➡️](https://supervisely.com/labeling-toolbox/images)
 
 <img src="https://user-images.githubusercontent.com/12828725/173542924-8cb6849d-e04a-468c-a8db-9e49e55ffe7b.gif" width="auto" height="400"/>
 
@@ -35,7 +35,7 @@ Precise tools for pixel-accurate annotations make any task from object detection
 
 ### SMART TOOLS
 # Interactive AI assisted labeling
-Apart from usual tools like rectangle or brush, Supervisely comes with “smart” labeling tools based on a collection of class-agnostic neural networks that can be further trained on your data. [Learn more ➡️](https://supervise.ly/labeling-automation/ai-assisted-labeling)
+Apart from usual tools like rectangle or brush, Supervisely comes with “smart” labeling tools based on a collection of class-agnostic neural networks that can be further trained on your data. [Learn more ➡️](https://supervisely.com/labeling-automation/ai-assisted-labeling)
 
 <img src="https://user-images.githubusercontent.com/12828725/173544099-d8c273d0-a31d-4455-b83e-8f3d8cd3d0a4.gif"/>
 
@@ -53,17 +53,17 @@ Neural network in the core of the smart tool can be re-trained to better fit you
 
 # Annotation features for the real work
 Successful image labeling requires much more than just annotation tools like brush or rectangle.
-Supervisely has comprehensive set of features that distinguish it from yet another labeling editor. [Learn more ➡️](https://supervise.ly/labeling-toolbox/images)
+Supervisely has comprehensive set of features that distinguish it from yet another labeling editor. [Learn more ➡️](https://supervisely.com/labeling-toolbox/images)
 
 </div>
 
 `image & object tags`  |  `Image & object filters` 
 :---------------:|:-----------------:
-<img src="https://cdn.supervise.ly/img/object-tags.8715b6c.png" width="500" height="auto"/>  |  <img src="https://cdn.supervise.ly/img/final.994fabc.png" width="500" height="auto"/>
+<img src="https://cdn.supervisely.com/img/object-tags.8715b6c.png" width="500" height="auto"/>  |  <img src="https://cdn.supervisely.com/img/final.994fabc.png" width="500" height="auto"/>
 
 `huge resolutions`  |  `Supports 1000+ objects per image` 
 :---------------:|:-----------------:
-<img src="https://cdn.supervise.ly/img/tallinn.563be7e.png" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173540755-2dd51481-ee88-467b-bcaa-361449199351.gif" width="500" height="auto"/>
+<img src="https://cdn.supervisely.com/img/tallinn.563be7e.png" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/12828725/173540755-2dd51481-ee88-467b-bcaa-361449199351.gif" width="500" height="auto"/>
 
 `visual configuration`  |  `hotkeys` 
 :---------------:|:-----------------:
@@ -76,9 +76,9 @@ Supervisely has comprehensive set of features that distinguish it from yet anoth
 # Custom labeling UIs
 Our labeling suites are best-in-class, but even the best tools cannot fit every possible scenario. Sometimes, to achieve incredible results in annotation performance and quality a custom labeling solution with a tailored user interface is required.
 
-With [Supervisely Apps](https://supervise.ly/ecosystem) it's easy to build custom UIs for any task. Implement logic with Python and create comprehensive interfaces using our library of widgets, without worrying of deployment, integration, format conversion and other boring things.
+With [Supervisely Apps](https://supervisely.com/ecosystem) it's easy to build custom UIs for any task. Implement logic with Python and create comprehensive interfaces using our library of widgets, without worrying of deployment, integration, format conversion and other boring things.
 
-[Learn more ➡️](https://supervise.ly/labeling-automation/custom-labeling-ui)
+[Learn more ➡️](https://supervisely.com/labeling-automation/custom-labeling-ui)
 
 </div>
 
