@@ -6,7 +6,7 @@
 
 With more than 5 years of constant improvement, proved by hundreds of businesses, our image labeling suite sets the highest industry standard on the market today. [Learn more ➡️](https://supervisely.com/labeling-toolbox/images)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](../../../../supervisely-ecosystem/image-labeling-tool-v2)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/image-labeling-tool-v2)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/image-labeling-tool-v2.png)](https://supervisely.com)
 [![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/image-labeling-tool-v2.png)](https://supervisely.com)
